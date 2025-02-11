@@ -6,4 +6,4 @@ Resolução da Tarefa Individual sobre PWM
 # Pasta: PWM
 > Contém o código executável, um README.md contendo as instruções e a simulação do motor. 
 # VÍDEO:
-[LINK PARA VÍDEO](https://youtu.be/U7sBM_jMFB4)
+[LINK PARA VÍDEO](https://youtu.be/mh9LyNCnto8)
